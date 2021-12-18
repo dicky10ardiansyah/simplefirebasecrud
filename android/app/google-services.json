@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "615907165911",
+    "project_id": "simplecrud-22283",
+    "storage_bucket": "simplecrud-22283.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615907165911:android:0f5002109c8b2e326ad292",
+        "android_client_info": {
+          "package_name": "com.example.practiceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615907165911-5jvskin1v4as0gvs0nufp9ih6kka5q8e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbM-dtnoUpjq3VLF3bELRzLg5styqR3Pc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615907165911-5jvskin1v4as0gvs0nufp9ih6kka5q8e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
